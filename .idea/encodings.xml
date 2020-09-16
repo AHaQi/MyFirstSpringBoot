@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/yshop-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-mproot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-mproot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-shop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yshop-weixin/src/main/java" charset="UTF-8" />
+  </component>
+</project>

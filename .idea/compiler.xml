@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yshop-mproot" />
+        <module name="yshop-weixin" />
+        <module name="yshop-shop" />
+        <module name="yshop-common" />
+        <module name="yshop-logging" />
+        <module name="yshop-generator" />
+        <module name="yshop-tools" />
+        <module name="yshop-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yshop" target="1.8" />
+      <module name="yshop-admin" target="1.8" />
+      <module name="yshop-common" target="1.8" />
+      <module name="yshop-generator" target="1.8" />
+      <module name="yshop-logging" target="1.8" />
+      <module name="yshop-mproot" target="1.8" />
+      <module name="yshop-shop" target="1.8" />
+      <module name="yshop-tools" target="1.8" />
+      <module name="yshop-weixin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="yshop-admin" options="-parameters" />
+      <module name="yshop-common" options="-parameters" />
+      <module name="yshop-generator" options="-parameters" />
+      <module name="yshop-logging" options="-parameters" />
+      <module name="yshop-mproot" options="-parameters" />
+      <module name="yshop-shop" options="-parameters" />
+      <module name="yshop-tools" options="-parameters" />
+      <module name="yshop-weixin" options="-parameters" />
+    </option>
+  </component>
+</project>
